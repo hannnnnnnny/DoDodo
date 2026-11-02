@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: dodaj zadania w jednej linii, rozpocznij jedno, oznacz je jako zrobione i zobacz, jak minęła noc">
+  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: dodaj zadania w jednej linii, ukończ je, wrzuć do Studni dar na tę noc i zobacz, jak minie noc">
   <br>
-  <a href="assets/demo.mp4">▶ Obejrzyj całe demo (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Obejrzyj całe demo (MP4, 58 s)</a>
 </p>
 
 ## Dlaczego DoDodo

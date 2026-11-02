@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: tambahkan misi dalam satu baris, mulai salah satunya, tandai selesai, lalu lihat bagaimana malam itu berlalu">
+  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: tambahkan misi dalam satu baris, selesaikan, jatuhkan hadiah untuk malam ini ke Sumur, lalu saksikan malamnya">
   <br>
-  <a href="assets/demo.mp4">▶ Tonton demo lengkap (MP4, 41 detik)</a>
+  <a href="assets/demo.mp4">▶ Tonton demo lengkap (MP4, 58 detik)</a>
 </p>
 
 ## Kenapa DoDodo

@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo のデモ：1 行でクエストを追加し、ひとつを開始して完了にし、その夜の結末を見る">
+  <img src="assets/demo.gif" width="800" alt="DoDodo のデモ：1 行でクエストを追加して完了し、今夜に役立つ贈り物を恩寵の井戸に落とし、その夜を見届ける">
   <br>
-  <a href="assets/demo.mp4">▶ フルデモを見る（MP4、41 秒）</a>
+  <a href="assets/demo.mp4">▶ フルデモを見る（MP4、58 秒）</a>
 </p>
 
 ## なぜ DoDodo なのか

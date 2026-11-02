@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: thêm nhiệm vụ chỉ bằng một dòng, bắt đầu một nhiệm vụ, đánh dấu hoàn thành và xem đêm hôm đó trôi qua thế nào">
+  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: thêm nhiệm vụ chỉ bằng một dòng, hoàn thành chúng, thả xuống Giếng một món quà cho đêm nay và xem đêm trôi qua">
   <br>
-  <a href="assets/demo.mp4">▶ Xem toàn bộ demo (MP4, 41 giây)</a>
+  <a href="assets/demo.mp4">▶ Xem toàn bộ demo (MP4, 58 giây)</a>
 </p>
 
 ## Vì sao có DoDodo

@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo di DoDodo: aggiungi missioni in una riga, avviane una, segnale come fatte e guarda com’è andata la notte">
+  <img src="assets/demo.gif" width="800" alt="Demo di DoDodo: aggiungi missioni in una riga, completale, lascia cadere nel Pozzo un dono per stanotte e guarda la notte">
   <br>
-  <a href="assets/demo.mp4">▶ Guarda la demo completa (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Guarda la demo completa (MP4, 58 s)</a>
 </p>
 
 ## Perché DoDodo

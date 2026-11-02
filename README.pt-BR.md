@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo do DoDodo: adicione missões em uma linha, comece uma, marque como concluídas e veja como foi a noite">
+  <img src="assets/demo.gif" width="800" alt="Demo do DoDodo: adicione missões em uma linha, conclua-as, jogue no Poço um presente para esta noite e assista à noite">
   <br>
-  <a href="assets/demo.mp4">▶ Assista à demo completa (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Assista à demo completa (MP4, 58 s)</a>
 </p>
 
 ## Por que o DoDodo

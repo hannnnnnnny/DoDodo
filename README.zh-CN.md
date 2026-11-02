@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo 演示：一行添加任务，开始其中一个，把它们标记为完成，再看这一夜过得怎样">
+  <img src="assets/demo.gif" width="800" alt="DoDodo 演示：一行添加任务并完成，往恩赐井里投下今晚用得上的礼物，再看这一夜如何度过">
   <br>
-  <a href="assets/demo.mp4">▶ 观看完整演示（MP4，41 秒）</a>
+  <a href="assets/demo.mp4">▶ 观看完整演示（MP4，58 秒）</a>
 </p>
 
 ## 为什么做 DoDodo

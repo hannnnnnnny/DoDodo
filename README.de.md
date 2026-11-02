@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo-Demo: Quests in einer Zeile anlegen, eine starten, sie als erledigt markieren und sehen, wie die Nacht verlief">
+  <img src="assets/demo.gif" width="800" alt="DoDodo-Demo: Quests in einer Zeile anlegen und erledigen, ein Geschenk für heute Nacht in den Brunnen werfen und die Nacht ansehen">
   <br>
-  <a href="assets/demo.mp4">▶ Komplette Demo ansehen (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Komplette Demo ansehen (MP4, 58 s)</a>
 </p>
 
 ## Warum DoDodo

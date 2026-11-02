@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo demo: add quests in one line, start one, mark them done, and see how the night went">
+  <img src="assets/demo.gif" width="800" alt="DoDodo demo: add quests in one line, mark them done, drop a gift for tonight into the Well, and watch the night">
   <br>
-  <a href="assets/demo.mp4">▶ Watch the full demo (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Watch the full demo (MP4, 58 s)</a>
 </p>
 
 ## Why DoDodo

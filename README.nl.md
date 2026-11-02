@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo-demo: voeg quests toe in één regel, start er een, markeer ze als klaar en zie hoe de nacht verliep">
+  <img src="assets/demo.gif" width="800" alt="DoDodo-demo: voeg quests toe in één regel, rond ze af, laat een geschenk voor vannacht in de Put vallen en bekijk de nacht">
   <br>
-  <a href="assets/demo.mp4">▶ Bekijk de volledige demo (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Bekijk de volledige demo (MP4, 58 s)</a>
 </p>
 
 ## Waarom DoDodo

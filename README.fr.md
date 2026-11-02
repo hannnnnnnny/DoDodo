@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Démo de DoDodo : ajouter des quêtes en une ligne, en lancer une, les marquer comme faites, puis voir comment s’est passée la nuit">
+  <img src="assets/demo.gif" width="800" alt="Démo de DoDodo : ajouter des quêtes en une ligne, les terminer, déposer dans le Puits un cadeau pour cette nuit, puis regarder la nuit">
   <br>
-  <a href="assets/demo.mp4">▶ Voir la démo complète (MP4, 41 s)</a>
+  <a href="assets/demo.mp4">▶ Voir la démo complète (MP4, 58 s)</a>
 </p>
 
 ## Pourquoi DoDodo

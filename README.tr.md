@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo demosu: görevleri tek satırda ekle, birini başlat, tamamlandı olarak işaretle ve gecenin nasıl geçtiğini gör">
+  <img src="assets/demo.gif" width="800" alt="DoDodo demosu: görevleri tek satırda ekle ve bitir, bu gece işe yarayacak bir hediyeyi Kuyuya bırak ve geceyi izle">
   <br>
-  <a href="assets/demo.mp4">▶ Demonun tamamını izle (MP4, 41 sn)</a>
+  <a href="assets/demo.mp4">▶ Demonun tamamını izle (MP4, 58 sn)</a>
 </p>
 
 ## Neden DoDodo

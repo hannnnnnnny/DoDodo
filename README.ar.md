@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="عرض DoDodo: أضف المهام بسطر واحد، وابدأ إحداها، وعلّمها منجزة، ثم شاهد كيف مرّت الليلة">
+  <img src="assets/demo.gif" width="800" alt="عرض DoDodo: أضف المهام بسطر واحد وأنجزها، وألقِ في البئر هدية تنفع الليلة، ثم شاهد كيف تمرّ الليلة">
   <br>
-  <a href="assets/demo.mp4">▶ شاهد العرض الكامل (MP4، 41 ثانية)</a>
+  <a href="assets/demo.mp4">▶ شاهد العرض الكامل (MP4، 58 ثانية)</a>
 </p>
 
 ## لماذا DoDodo

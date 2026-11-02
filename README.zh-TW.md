@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo 示範：一行新增任務，開始其中一個，把它們標記為完成，再看這一夜過得如何">
+  <img src="assets/demo.gif" width="800" alt="DoDodo 示範：一行新增任務並完成，往恩賜井裡投下今晚用得上的禮物，再看這一夜如何度過">
   <br>
-  <a href="assets/demo.mp4">▶ 觀看完整示範（MP4，41 秒）</a>
+  <a href="assets/demo.mp4">▶ 觀看完整示範（MP4，58 秒）</a>
 </p>
 
 ## 為什麼做 DoDodo

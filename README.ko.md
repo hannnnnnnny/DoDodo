@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo 데모: 한 줄로 퀘스트를 추가하고, 하나를 시작해 완료한 뒤, 그날 밤이 어떻게 지나갔는지 확인">
+  <img src="assets/demo.gif" width="800" alt="DoDodo 데모: 한 줄로 퀘스트를 추가해 완료하고, 오늘 밤에 필요한 선물을 은총의 우물에 떨어뜨린 뒤, 그 밤을 지켜보기">
   <br>
-  <a href="assets/demo.mp4">▶ 전체 데모 보기 (MP4, 41초)</a>
+  <a href="assets/demo.mp4">▶ 전체 데모 보기 (MP4, 58초)</a>
 </p>
 
 ## 왜 DoDodo인가
