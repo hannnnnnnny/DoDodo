@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Deine To-do-Liste als Abenteurergilde.</b><br>
-  Nimm morgens ein paar Quests an, erledige die Arbeit – und jeden Abend kommt dein Abenteurer ein bisschen stärker nach Hause.
+  <b>Deine To-do-Liste hält jemanden am Leben.</b><br>
+  Erledige echte Quests, sammle Gnade, wirf Gaben in den Brunnen und bring einen Überlebenden durch 30 Nächte in Hollowmere. Woher die Hilfe kommt, erfährt er nie.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo-Demo: Quest in einer Zeile anlegen, starten, abschließen und die Abendabrechnung ansehen">
+  <img src="assets/demo.gif" width="800" alt="DoDodo-Demo: Quests in einer Zeile anlegen, eine starten, sie als erledigt markieren und sehen, wie die Nacht verlief">
   <br>
-  <a href="assets/demo.mp4">▶ Komplette Demo ansehen (MP4, 32 s)</a>
+  <a href="assets/demo.mp4">▶ Komplette Demo ansehen (MP4, 41 s)</a>
 </p>
 
 ## Warum DoDodo
 
-Du planst drei Dinge für den Tag und schaffst keins. Oft fehlt nicht die Konzentration, sondern ein Grund, der sich *jetzt sofort* echt anfühlt. Das Gehalt ist weit weg; „50 €, wenn du es heute fertig machst“ wirkt sofort.
+Du planst drei Dinge für den Tag und schaffst keins. Oft fehlt nicht die Konzentration, sondern ein Grund, der sich *jetzt sofort* echt anfühlt. Eine Frist im nächsten Monat ist weit weg. Jemand, der dich heute Nacht braucht, nicht.
 
-DoDodo gibt jeder Aufgabe diese sofortige Belohnung. Jede erledigte Quest lässt einen Abenteurer wachsen, der sein eigenes kleines Leben führt: neue Talente, zufällige Begegnungen, eine Geschichte, die sich über einen Monat entfaltet. Verpasst du eine Quest, siehst du die Gelegenheit, die dein Abenteurer verpasst hat. Was du schon verdient hast, verlierst du nie.
+In DoDodo wird jede erledigte Quest zu Gnade für einen Überlebenden in Hollowmere, einer stillen Stadt, in der nach Einbruch der Dunkelheit etwas an die Tür kommt. Kämpfen kannst du nicht für ihn. Du kannst deine Arbeit machen, auswählen, was du den Brunnen hinabschickst, und morgens den Brief lesen.
 
 ## So funktioniert’s
 
-1. **Quest annehmen**: Schreib, was du vorhast, und drück Enter. DoDodo errät das Attribut (Stärke, Weisheit, Charisma, Handwerk) und setzt die Frist auf dein Feierabendende.
-2. **Starten**: Während die Quest läuft, merkt sich DoDodo still, auf welcher Website du bist. Quests abseits der Tastatur (Laufen, Einkaufen) brauchen kein Tracking.
-3. **Fertig**: ein Klick. DoDodo fragt nur nach, wenn du kaum konzentriert warst.
-4. **Heimkehr**: Nach Feierabend rechnet die Gilde den Tag ab: Erfahrung, Stufenaufstiege, Lebensereignisse und verpasste Gelegenheiten.
+1. **Quest annehmen**: Schreib, was du vorhast, und drück Enter. Bis zu drei pro Tag, fällig zum Feierabend.
+2. **Die Arbeit machen**: Während eine Quest läuft, notiert DoDodo still, auf welcher Seite du bist. Quests fern der Tastatur (Joggen, Einkaufen) brauchen kein Tracking.
+3. **Gnade verdienen**: Ein Tipp, und die Quest ist erledigt. Pünktlich bringt sie 2 Gnade, verspätet 1.
+4. **Hilfe schicken**: Tausche Gnade gegen Talismane und Bauten und wirf sie in den Brunnen der Gnade. In der Dämmerung zieht der Überlebende sie herauf, dankt dem Himmel und stellt sich der Nacht.
 
 ## Screenshots
 
-| Gilden-Questbrett | Abendabrechnung |
+| Die Quests von heute | Der Brunnen der Gnade |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Gilden-Questbrett"> | <img src="assets/screenshots/settlement.jpg" alt="Abendabrechnung"> |
+| <img src="assets/screenshots/board.jpg" alt="Die Quests von heute"> | <img src="assets/screenshots/well.jpg" alt="Der Brunnen der Gnade"> |
+| **Die Nacht** | **Der Kodex der Bewohner** |
+| <img src="assets/screenshots/settlement.jpg" alt="Die Nacht"> | <img src="assets/screenshots/codex.jpg" alt="Der Kodex der Bewohner"> |
 | **Dein Fortschritt** | **Popup in der Symbolleiste** |
 | <img src="assets/screenshots/stats.jpg" alt="Dein Fortschritt"> | <img src="assets/screenshots/popup.jpg" alt="Popup in der Symbolleiste"> |
 
 ## Funktionen
 
-- **Quests in einer Zeile**: keine Formulare. Höchstens drei pro Tag, damit der Plan ehrlich bleibt.
-- **Echte Konzentration statt Häkchen**: Wachstum entsteht aus der Zeit, die du wirklich an der Arbeit verbringst.
-- **Eine Geschichte, zu der man zurückkehrt**: Kapitel eins entfaltet sich über etwa 30 Tage, von Hand geschrieben, ohne KI-Füllstoff.
-- **Belege dafür, dass du dich veränderst**: Sieben-Tage-Fokusdiagramm, Pünktlichkeitsquote und die Uhrzeit, zu der du am stärksten abgelenkt bist.
-- **Fair von Grund auf**: keine gekaufte Erfahrung, keine Abkürzungen, kein Schlechtmachen, wenn eine Serie reißt.
+- **Eine Nacht zum Zusehen**: Jede Nacht läuft als kurze animierte Szene im Häuschen ab, mit acht Erscheinungen, die jede auf ihre eigene Art hineinfinden. Die Zahlen sind immer sichtbar: die Bedrohung dieser Nacht, deine Verteidigung und woher sie kommt.
+- **Die Wahl eines Gottes**: Von oben siehst du die Vorzeichen, die der Überlebende nicht sieht, und wählst aus 19 Talismanen und 10 Bauten. Die richtige Gabe in der richtigen Nacht hält ihn am Leben.
+- **Ein Kodex, der lügt**: Pünktlich erledigte Quests bringen die Regeln der Stadt zurück. Manche Zeilen sind falsch, und wer der falschen traut, zahlt dafür.
+- **Jeden Morgen ein Brief**: Der Überlebende schreibt an den, der ihm hilft, wer auch immer das ist. Dass du es bist, erfährt er nie.
+- **Echter Fokus statt Häkchen**: ein Fokus-Diagramm über sieben Tage, deine Pünktlichkeitsquote und die Stunde, in der du dich am meisten ablenken lässt.
+- **Fair von Grund auf**: keine gekaufte Gnade, keine Abkürzungen, kein Schlechtmachen, wenn eine Serie reißt. Überleben gibt es nur durch erledigte Arbeit.
 
 ## Datenschutz von Grund auf
 
 - Alles bleibt in der lokalen Datenbank deines Browsers. DoDodo verbindet sich nie mit dem Internet.
 - Erfasst wird nur die **Domain** des aktiven Tabs und nur, während eine Quest läuft – nie vollständige URLs, Seitentitel oder Seiteninhalte.
-- Kein Konto, keine Analyse, keine Werbung. Exportiere oder lösche alle Daten mit einem Klick in den Einstellungen.
+- Kein Konto, keine Analyse, keine Werbung. Exportiere oder lösche alle Daten in den Einstellungen.
 - Vollständige Richtlinie: [Datenschutzerklärung (Englisch)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Installieren
 
 [**DoDodo zu Chrome hinzufügen →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Läuft in Chrome und Microsoft Edge (Version 102 oder neuer).
+Läuft in Chrome und Microsoft Edge (Version 102 oder neuer). Die Oberfläche ist auf Englisch.
 
 ## Über dieses Repository
 

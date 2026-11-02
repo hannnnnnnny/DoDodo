@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Twoja lista zadań zamieniona w gildię poszukiwaczy przygód.</b><br>
-  Rano weź kilka zadań, zrób robotę, a każdego wieczoru twój poszukiwacz przygód wróci do domu trochę silniejszy.
+  <b>Twoja lista zadań utrzymuje kogoś przy życiu.</b><br>
+  Kończ prawdziwe zadania, zdobywaj Łaskę, wrzucaj dary do Studni i pomóż ocalałemu przetrwać 30 nocy w Hollowmere. Nigdy się nie dowie, kto pomagał.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: dodaj zadanie w jednej linii, zacznij, zakończ i zobacz wieczorne podsumowanie">
+  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: dodaj zadania w jednej linii, rozpocznij jedno, oznacz je jako zrobione i zobacz, jak minęła noc">
   <br>
-  <a href="assets/demo.mp4">▶ Obejrzyj pełne demo (MP4, 32 s)</a>
+  <a href="assets/demo.mp4">▶ Obejrzyj całe demo (MP4, 41 s)</a>
 </p>
 
 ## Dlaczego DoDodo
 
-Planujesz trzy rzeczy na dzień i nie kończysz żadnej. Często brakuje nie skupienia, tylko powodu, który wydaje się prawdziwy *teraz*. Pensja jest daleko, a „50 zł, jeśli skończysz dzisiaj” działa od razu.
+Planujesz na dziś trzy rzeczy i nie kończysz żadnej. Często brakuje nie skupienia, lecz powodu, który wydaje się prawdziwy *tu i teraz*. Termin w przyszłym miesiącu jest daleko. Ktoś, kto potrzebuje cię dziś w nocy, nie.
 
-DoDodo daje każdemu zadaniu taką natychmiastową nagrodę. Każde ukończone zadanie rozwija poszukiwacza przygód, który ma własne małe życie: nowe talenty, przypadkowe spotkania i historię rozwijającą się przez miesiąc. Jeśli pominiesz zadanie, zobaczysz okazję, którą twój bohater przegapił. Tego, co już zdobyłeś, nigdy nie tracisz.
+W DoDodo każde ukończone zadanie staje się Łaską dla ocalałego w Hollowmere, cichym miasteczku, do którego drzwi po zmroku coś przychodzi. Nie możesz walczyć za niego. Możesz zrobić swoją pracę, wybrać, co spuścić do Studni, i rano przeczytać list.
 
 ## Jak to działa
 
-1. **Weź zadanie**: wpisz, co zrobisz, i naciśnij Enter. DoDodo zgadnie cechę (siła, mądrość, charyzma, rzemiosło) i ustawi termin na koniec dnia pracy.
-2. **Zacznij**: w trakcie zadania DoDodo po cichu zapisuje, na jakiej stronie jesteś. Zadania z dala od klawiatury (bieganie, zakupy) nie wymagają śledzenia.
-3. **Gotowe**: jedno kliknięcie. DoDodo zada pytanie tylko wtedy, gdy prawie się nie skupiłeś.
-4. **Powrót do domu**: po pracy gildia podsumowuje dzień: doświadczenie, nowe poziomy, wydarzenia z życia i przegapione okazje.
+1. **Weź zadanie**: wpisz, co zrobisz, i naciśnij Enter. Najwyżej trzy dziennie, z terminem do końca dnia pracy.
+2. **Wykonaj pracę**: w trakcie zadania DoDodo po cichu zapisuje, na jakiej jesteś stronie. Zadania z dala od klawiatury (bieganie, zakupy) nie wymagają śledzenia.
+3. **Zdobywaj Łaskę**: jedno dotknięcie kończy zadanie. Na czas to 2 Łaski, po terminie 1.
+4. **Ślij pomoc**: wymieniaj Łaskę na amulety i budowle i wrzucaj je do Studni Łaski. O zmierzchu ocalały wyciąga je na górę, dziękuje niebu i stawia czoła nocy.
 
 ## Zrzuty ekranu
 
-| Tablica zadań gildii | Wieczorne podsumowanie |
+| Dzisiejsze zadania | Studnia Łaski |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Tablica zadań gildii"> | <img src="assets/screenshots/settlement.jpg" alt="Wieczorne podsumowanie"> |
+| <img src="assets/screenshots/board.jpg" alt="Dzisiejsze zadania"> | <img src="assets/screenshots/well.jpg" alt="Studnia Łaski"> |
+| **Noc** | **Kodeks Mieszkańców** |
+| <img src="assets/screenshots/settlement.jpg" alt="Noc"> | <img src="assets/screenshots/codex.jpg" alt="Kodeks Mieszkańców"> |
 | **Twoje postępy** | **Okienko na pasku narzędzi** |
 | <img src="assets/screenshots/stats.jpg" alt="Twoje postępy"> | <img src="assets/screenshots/popup.jpg" alt="Okienko na pasku narzędzi"> |
 
 ## Funkcje
 
-- **Zadania w jednej linii**: bez formularzy. Najwyżej trzy dziennie, żeby plan był uczciwy.
-- **Prawdziwe skupienie, a nie odhaczanie**: rozwój bierze się z czasu naprawdę poświęconego pracy.
-- **Historia, do której chce się wracać**: pierwszy rozdział rozwija się przez około 30 dni, pisany ręcznie, bez wypełniaczy z AI.
-- **Dowód, że się zmieniasz**: siedmiodniowy wykres skupienia, odsetek zadań oddanych na czas i godzina, w której najczęściej się rozpraszasz.
-- **Uczciwie z założenia**: nie da się kupić doświadczenia, nie ma skrótów ani wyrzutów za przerwaną serię.
+- **Noc, którą widać**: każda noc to krótka animowana scena w chatce, z ośmioma zjawami, z których każda ma własny sposób, by wejść do środka. Liczby są zawsze na widoku: zagrożenie tej nocy, twoja obrona i to, skąd się wzięła.
+- **Wybory boga**: z góry widzisz znaki, których ocalały nie widzi, i wybierasz spośród 19 amuletów i 10 budowli. Właściwy dar we właściwą noc utrzymuje go przy życiu.
+- **Kodeks, który kłamie**: zadania oddane na czas odzyskują zasady miasteczka. Niektóre linijki są fałszywe, a zaufanie niewłaściwej słono kosztuje.
+- **List każdego ranka**: ocalały pisze do tego, kto mu pomaga, kimkolwiek jest. Nigdy się nie dowie, że to ty.
+- **Prawdziwe skupienie, nie odhaczanie**: wykres skupienia z siedmiu dni, odsetek zadań na czas i godzina, o której najbardziej się rozpraszasz.
+- **Uczciwie z założenia**: nie da się kupić Łaski, nie ma skrótów ani wyrzutów za przerwaną serię. Przetrwanie daje tylko wykonana praca.
 
 ## Prywatność z założenia
 
 - Wszystko zostaje w lokalnej bazie danych przeglądarki. DoDodo nigdy nie łączy się z internetem.
 - Zapisywana jest tylko **domena** aktywnej karty i tylko podczas zadania — nigdy pełne adresy URL, tytuły ani treść stron.
-- Bez konta, bez analityki, bez reklam. Wyeksportuj lub usuń wszystkie dane jednym kliknięciem w Ustawieniach.
+- Bez konta, bez analityki, bez reklam. Wyeksportuj lub usuń wszystkie dane w Ustawieniach.
 - Pełna treść: [Polityka prywatności (po angielsku)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Zainstaluj
 
 [**Dodaj DoDodo do Chrome →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Działa w Chrome i Microsoft Edge (wersja 102 lub nowsza).
+Działa w Chrome i Microsoft Edge (wersja 102 lub nowsza). Interfejs jest po angielsku.
 
 ## O tym repozytorium
 

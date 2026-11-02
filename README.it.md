@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>La tua lista di cose da fare, trasformata in una gilda di avventurieri.</b><br>
-  Prendi qualche missione al mattino, fai il lavoro e ogni sera il tuo avventuriero torna a casa un po’ più forte.
+  <b>La tua lista di cose da fare tiene in vita qualcuno.</b><br>
+  Completa missioni reali per guadagnare Grazia, lascia cadere doni nel Pozzo e aiuta un sopravvissuto a superare 30 notti a Hollowmere. Non saprà mai chi lo ha aiutato.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo di DoDodo: aggiungi una missione in una riga, iniziala, completala e guarda il bilancio della sera">
+  <img src="assets/demo.gif" width="800" alt="Demo di DoDodo: aggiungi missioni in una riga, avviane una, segnale come fatte e guarda com’è andata la notte">
   <br>
-  <a href="assets/demo.mp4">▶ Guarda la demo completa (MP4, 32 s)</a>
+  <a href="assets/demo.mp4">▶ Guarda la demo completa (MP4, 41 s)</a>
 </p>
 
 ## Perché DoDodo
 
-Pianifichi tre cose per la giornata e non ne finisci nessuna. Spesso non manca la concentrazione, ma un motivo che sembri reale *adesso*. Lo stipendio è lontano; "50 € se lo finisci oggi" funziona subito.
+Pianifichi tre cose per la giornata e non ne finisci nessuna. Spesso non manca la concentrazione, manca un motivo che sembri reale *subito*. Una scadenza il mese prossimo è lontana. Qualcuno che ha bisogno di te stanotte, no.
 
-DoDodo dà a ogni compito quella ricompensa immediata. Ogni missione completata fa crescere un avventuriero con la sua piccola vita: nuovi talenti, incontri casuali e una storia che si sviluppa nell’arco di un mese. Se salti una missione, vedrai l’occasione persa dal tuo avventuriero. Ciò che hai già guadagnato non va mai perso.
+In DoDodo ogni missione completata diventa Grazia per un sopravvissuto di Hollowmere, una cittadina tranquilla dove, dopo il tramonto, qualcosa arriva alla porta. Non puoi combattere al suo posto. Puoi fare il tuo lavoro, scegliere cosa mandare giù nel Pozzo e leggere la sua lettera al mattino.
 
 ## Come funziona
 
-1. **Prendi una missione**: scrivi cosa farai e premi Invio. DoDodo indovina l’attributo (forza, saggezza, carisma, mestiere) e fissa la scadenza alla fine della tua giornata lavorativa.
-2. **Inizia**: mentre la missione è in corso, DoDodo annota in silenzio su quale sito ti trovi. Le missioni lontano dalla tastiera (una corsa, la spesa) non vengono tracciate.
-3. **Fatto**: un solo tocco. DoDodo fa una domanda solo se ti sei concentrato pochissimo.
-4. **Ritorno a casa**: finito il lavoro, la gilda tira le somme della giornata: esperienza, salti di livello, eventi di vita e occasioni perse.
+1. **Prendi una missione**: scrivi cosa farai e premi Invio. Fino a tre al giorno, con scadenza a fine giornata lavorativa.
+2. **Fai il lavoro**: mentre la missione è in corso, DoDodo annota con discrezione su quale sito ti trovi. Le missioni lontano dalla tastiera (una corsa, la spesa) non richiedono tracciamento.
+3. **Guadagna Grazia**: un tocco segna la missione come fatta. In tempo vale 2 di Grazia, in ritardo 1.
+4. **Manda aiuto**: spendi la Grazia in amuleti e costruzioni e lasciali cadere nel Pozzo della Grazia. Al crepuscolo il sopravvissuto li tira su, ringrazia il cielo e affronta la notte.
 
 ## Screenshot
 
-| Bacheca della gilda | Bilancio della sera |
+| Le missioni di oggi | Il Pozzo della Grazia |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Bacheca della gilda"> | <img src="assets/screenshots/settlement.jpg" alt="Bilancio della sera"> |
+| <img src="assets/screenshots/board.jpg" alt="Le missioni di oggi"> | <img src="assets/screenshots/well.jpg" alt="Il Pozzo della Grazia"> |
+| **La notte** | **Il Codice dei residenti** |
+| <img src="assets/screenshots/settlement.jpg" alt="La notte"> | <img src="assets/screenshots/codex.jpg" alt="Il Codice dei residenti"> |
 | **I tuoi progressi** | **Finestra della barra degli strumenti** |
 | <img src="assets/screenshots/stats.jpg" alt="I tuoi progressi"> | <img src="assets/screenshots/popup.jpg" alt="Finestra della barra degli strumenti"> |
 
 ## Funzionalità
 
-- **Missioni in una riga**: niente moduli. Al massimo tre al giorno, così il piano resta onesto.
-- **Concentrazione vera, non caselle**: la crescita nasce dal tempo davvero dedicato al lavoro.
-- **Una storia a cui tornare**: il primo capitolo si sviluppa in circa 30 giorni, scritto a mano, senza riempitivi generati dall’IA.
-- **La prova che stai cambiando**: grafico della concentrazione di sette giorni, percentuale di consegne puntuali e l’ora in cui ti distrai di più.
-- **Equo per scelta**: niente esperienza da comprare, niente scorciatoie, nessun rimprovero se interrompi una serie.
+- **Una notte da guardare**: ogni notte è una breve scena animata nella casetta, con otto presenze che trovano ciascuna il proprio modo di entrare. I numeri sono sempre in vista: la minaccia della notte, la tua difesa e da dove viene.
+- **Le scelte di un dio**: dall’alto vedi i presagi che il sopravvissuto non vede e scegli tra 19 amuleti e 10 costruzioni. Il dono giusto nella notte giusta è ciò che lo tiene in vita.
+- **Un Codice che mente**: le missioni consegnate in tempo riportano alla luce le regole della città. Alcune righe sono false, e fidarsi di quella sbagliata si paga.
+- **Una lettera ogni mattina**: il sopravvissuto scrive a chiunque lo stia aiutando. Non saprà mai che sei tu.
+- **Concentrazione vera, non caselle spuntate**: un grafico della concentrazione su sette giorni, la tua puntualità e l’ora in cui ti distrai di più.
+- **Equo per scelta**: niente Grazia da comprare, niente scorciatoie, nessun rimprovero se interrompi una serie. Si sopravvive solo facendo il lavoro.
 
 ## Privacy per scelta
 
 - Tutto resta nel database locale del tuo browser. DoDodo non si connette mai a internet.
 - Viene registrato solo il **dominio** della scheda attiva, e solo durante una missione: mai URL complete, titoli o contenuti delle pagine.
-- Nessun account, nessuna analisi, nessuna pubblicità. Esporta o elimina tutti i dati con un clic dalle Impostazioni.
+- Nessun account, nessuna analisi, nessuna pubblicità. Esporta o elimina tutti i dati dalle Impostazioni.
 - Informativa completa: [Informativa sulla privacy (in inglese)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Installalo
 
 [**Aggiungi DoDodo a Chrome →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Funziona su Chrome e Microsoft Edge (versione 102 o successiva).
+Funziona su Chrome e Microsoft Edge (versione 102 o successiva). L’interfaccia è in inglese.
 
 ## Informazioni su questo repository
 

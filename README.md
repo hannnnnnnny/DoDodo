@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Your to-do list, turned into an adventurers' guild.</b><br>
-  Take a few quests in the morning, do the work, and every evening your adventurer comes home a little stronger.
+  <b>Your to-do list keeps someone alive.</b><br>
+  Finish real quests to earn Grace, drop gifts into the Well, and see a survivor through 30 nights in Hollowmere. They never learn who helped them.
 </p>
 
 <p align="center">
@@ -21,45 +21,48 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo demo: add a quest in one line, start, mark it done, and see the evening settlement">
+  <img src="assets/demo.gif" width="800" alt="DoDodo demo: add quests in one line, start one, mark them done, and see how the night went">
   <br>
-  <a href="assets/demo.mp4">▶ Watch the full demo (MP4, 32 s)</a>
+  <a href="assets/demo.mp4">▶ Watch the full demo (MP4, 41 s)</a>
 </p>
 
 ## Why DoDodo
 
-You plan three things for the day and finish none. Often it isn't focus that's missing — it's a reason that feels real *right now*. A salary is far away; "+50 if you finish this today" works instantly.
+You plan three things for the day and finish none. Often it isn't focus that's missing, it's a reason that feels real *right now*. A deadline next month is far away. Someone who needs you tonight is not.
 
-DoDodo gives every task that instant payoff. Each quest you finish grows an adventurer who lives a small life of their own: new talents, chance encounters, a story that unfolds over a month. Skip a quest and you'll see the opportunity your adventurer missed. You never lose what you've already earned.
+In DoDodo, every quest you finish becomes Grace for a survivor in Hollowmere, a quiet town where something comes to the door after dark. You can't fight for them. You can do your work, choose what to send down the Well, and read their letter in the morning.
 
 ## How it works
 
-1. **Take a quest** — type what you'll do and press Enter. DoDodo guesses the attribute (strength, wisdom, charisma, craft) and sets the deadline to the end of your work day.
-2. **Start** — DoDodo quietly notes which site you're on while the quest runs. Away-from-keyboard quests (a run, groceries) need no tracking.
-3. **Done** — one tap. DoDodo only asks a question if you barely focused.
-4. **Come home** — after work, the guild settles the day: XP, level-ups, life events and missed opportunities.
+1. **Take a quest**: type what you'll do and press Enter. Up to three a day, due by the end of your work day.
+2. **Do the work**: while a quest runs, DoDodo quietly notes which site you're on. Away-from-keyboard quests (a run, groceries) need no tracking.
+3. **Earn Grace**: one tap marks a quest done. On time is worth 2 Grace, late is worth 1.
+4. **Send help**: spend Grace on charms and buildings and drop them into the Well of Grace. At dusk the survivor draws them up, thanks the sky, and faces the night.
 
 ## Screenshots
 
-| Guild board | Evening settlement |
+| Today's quests | The Well of Grace |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Guild board"> | <img src="assets/screenshots/settlement.jpg" alt="Evening settlement"> |
+| <img src="assets/screenshots/board.jpg" alt="Today's quests"> | <img src="assets/screenshots/well.jpg" alt="The Well of Grace"> |
+| **The night** | **The Residents' Code** |
+| <img src="assets/screenshots/settlement.jpg" alt="The night"> | <img src="assets/screenshots/codex.jpg" alt="The Residents' Code"> |
 | **Your progress** | **Toolbar popup** |
-| <img src="assets/screenshots/stats.jpg" alt="Seven-day progress"> | <img src="assets/screenshots/popup.jpg" alt="Toolbar popup"> |
+| <img src="assets/screenshots/stats.jpg" alt="Your progress"> | <img src="assets/screenshots/popup.jpg" alt="Toolbar popup"> |
 
 ## Features
 
-- **One-line quests** — no forms. Up to three a day, so the plan stays honest.
-- **Real focus, not checkboxes** — growth comes from time actually spent on the work.
-- **A story worth coming back to** — chapter one unfolds over about 30 days, hand-written, no AI filler.
-- **Proof you're changing** — seven-day focus chart, on-time rate, and the hour you get distracted most.
-- **Fair by design** — no buying XP, no shortcuts, no streak shaming.
+- **A night you can watch**: each night plays as a short scene in the cottage, with eight presences that each find their own way in. The numbers are always shown: tonight's threat, your defense, and where it came from.
+- **A god's choices**: from above you see the omens the survivor can't, and choose from 19 charms and 10 buildings. The right gift on the right night keeps them alive.
+- **A Code that lies**: quests delivered on time recover the town's rules. Some lines are false, and trusting the wrong one costs you.
+- **A letter every morning**: the survivor writes to whoever is helping them. They never learn it's you.
+- **Real focus, not checkboxes**: a seven-day focus chart, your on-time rate, and the hour you get distracted most.
+- **Fair by design**: no buying Grace, no shortcuts, no streak shaming. Survival only comes from doing the work.
 
 ## Private by design
 
 - Everything stays in your browser's local database. DoDodo never connects to the internet.
-- Only the **domain** of the active tab is recorded, and only while a quest is running — never full URLs, page titles or page content.
-- No account, no analytics, no ads. Export or delete all your data from Settings in one click.
+- Only the **domain** of the active tab is recorded, and only while a quest is running: never full URLs, page titles or page content.
+- No account, no analytics, no ads. Export or delete all your data from Settings.
 - Full policy: [Privacy policy](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Get it

@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Sua lista de tarefas, transformada em uma guilda de aventureiros.</b><br>
-  Pegue algumas missões de manhã, faça o trabalho e, toda noite, seu aventureiro volta para casa um pouco mais forte.
+  <b>Sua lista de tarefas mantém alguém vivo.</b><br>
+  Conclua missões reais para ganhar Graça, jogue presentes no Poço e ajude um sobrevivente a atravessar 30 noites em Hollowmere. O sobrevivente nunca vai saber de quem veio a ajuda.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo do DoDodo: adicionar uma missão em uma linha, começar, concluir e ver o balanço da noite">
+  <img src="assets/demo.gif" width="800" alt="Demo do DoDodo: adicione missões em uma linha, comece uma, marque como concluídas e veja como foi a noite">
   <br>
-  <a href="assets/demo.mp4">▶ Assistir à demo completa (MP4, 32 s)</a>
+  <a href="assets/demo.mp4">▶ Assista à demo completa (MP4, 41 s)</a>
 </p>
 
 ## Por que o DoDodo
 
-Você planeja três coisas para o dia e não termina nenhuma. Muitas vezes não falta foco: falta um motivo que pareça real *agora*. O salário está longe; "R$ 50 se terminar hoje" funciona na hora.
+Você planeja três coisas para o dia e não termina nenhuma. Muitas vezes não falta foco, falta um motivo que pareça real *agora*. Um prazo no mês que vem está longe. Alguém que precisa de você esta noite, não.
 
-O DoDodo dá a cada tarefa essa recompensa imediata. Cada missão concluída faz crescer um aventureiro com sua própria pequena vida: novos talentos, encontros por acaso e uma história que se desenrola ao longo de um mês. Se você pular uma missão, verá a oportunidade que seu aventureiro perdeu. O que você já conquistou nunca se perde.
+No DoDodo, cada missão que você conclui vira Graça para um sobrevivente em Hollowmere, uma cidade quieta onde, depois que escurece, algo vem até a porta. Você não pode lutar por quem está lá. Pode fazer o seu trabalho, escolher o que mandar pelo Poço e ler a carta pela manhã.
 
 ## Como funciona
 
-1. **Pegue uma missão**: escreva o que vai fazer e aperte Enter. O DoDodo adivinha o atributo (força, sabedoria, carisma, ofício) e define o prazo para o fim do seu expediente.
-2. **Comece**: enquanto a missão está em andamento, o DoDodo anota discretamente em qual site você está. Missões longe do teclado (uma corrida, o mercado) não precisam de acompanhamento.
-3. **Concluir**: um toque. O DoDodo só pergunta algo se você mal se concentrou.
-4. **Volta para casa**: depois do trabalho, a guilda fecha o dia: experiência, subidas de nível, eventos de vida e oportunidades perdidas.
+1. **Pegue uma missão**: escreva o que vai fazer e aperte Enter. Até três por dia, com prazo no fim do seu expediente.
+2. **Faça o trabalho**: enquanto a missão está rodando, o DoDodo anota discretamente em que site você está. Missões longe do teclado (uma corrida, o mercado) não precisam de acompanhamento.
+3. **Ganhe Graça**: um toque conclui a missão. No prazo vale 2 de Graça; atrasada, 1.
+4. **Mande ajuda**: troque Graça por amuletos e construções e jogue tudo no Poço da Graça. Ao entardecer, o sobrevivente puxa tudo para cima, agradece ao céu e enfrenta a noite.
 
 ## Capturas de tela
 
-| Quadro da guilda | Balanço da noite |
+| As missões de hoje | O Poço da Graça |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Quadro da guilda"> | <img src="assets/screenshots/settlement.jpg" alt="Balanço da noite"> |
+| <img src="assets/screenshots/board.jpg" alt="As missões de hoje"> | <img src="assets/screenshots/well.jpg" alt="O Poço da Graça"> |
+| **A noite** | **O Código dos Moradores** |
+| <img src="assets/screenshots/settlement.jpg" alt="A noite"> | <img src="assets/screenshots/codex.jpg" alt="O Código dos Moradores"> |
 | **Seu progresso** | **Janela da barra de ferramentas** |
 | <img src="assets/screenshots/stats.jpg" alt="Seu progresso"> | <img src="assets/screenshots/popup.jpg" alt="Janela da barra de ferramentas"> |
 
 ## Recursos
 
-- **Missões em uma linha**: sem formulários. No máximo três por dia, para o plano continuar honesto.
-- **Foco de verdade, não caixinhas**: o crescimento vem do tempo realmente dedicado ao trabalho.
-- **Uma história para voltar todo dia**: o primeiro capítulo dura cerca de 30 dias, escrito à mão, sem enchimento de IA.
-- **Provas de que você está mudando**: gráfico de foco de sete dias, taxa de entregas no prazo e o horário em que você mais se distrai.
-- **Justo por natureza**: não dá para comprar experiência, não há atalhos nem cobrança por quebrar uma sequência.
+- **Uma noite para assistir**: cada noite é uma cena animada curta na casinha, com oito presenças que encontram, cada uma, seu próprio jeito de entrar. Os números ficam sempre à vista: a ameaça da noite, a sua defesa e de onde ela vem.
+- **As escolhas de um deus**: lá de cima, você vê os presságios que o sobrevivente não vê e escolhe entre 19 amuletos e 10 construções. O presente certo na noite certa faz toda a diferença.
+- **Um Código que mente**: missões entregues no prazo recuperam as regras da cidade. Algumas linhas são falsas, e confiar na errada custa caro.
+- **Uma carta toda manhã**: o sobrevivente escreve para quem quer que esteja ajudando. Nunca vai saber que é você.
+- **Foco de verdade, não caixinhas marcadas**: um gráfico de foco de sete dias, sua taxa de pontualidade e o horário em que você mais se distrai.
+- **Justo por natureza**: não dá para comprar Graça, não há atalhos nem cobrança por quebrar uma sequência. Sobreviver só depende de fazer o trabalho.
 
 ## Privacidade em primeiro lugar
 
 - Tudo fica no banco de dados local do seu navegador. O DoDodo nunca se conecta à internet.
 - Só o **domínio** da aba ativa é registrado, e apenas durante uma missão: nunca URLs completas, títulos ou conteúdo das páginas.
-- Sem conta, sem análises, sem anúncios. Exporte ou apague todos os seus dados em um clique nas Configurações.
+- Sem conta, sem análises, sem anúncios. Exporte ou apague todos os seus dados nas Configurações.
 - Política completa: [Política de privacidade (em inglês)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Baixe
 
 [**Adicionar o DoDodo ao Chrome →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Funciona no Chrome e no Microsoft Edge (versão 102 ou mais recente).
+Funciona no Chrome e no Microsoft Edge (versão 102 ou mais recente). A interface está em inglês.
 
 ## Sobre este repositório
 

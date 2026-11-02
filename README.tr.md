@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Yapılacaklar listen, bir maceracılar loncasına dönüşüyor.</b><br>
-  Sabah birkaç görev al, işi yap; her akşam maceracın eve biraz daha güçlenmiş olarak döner.
+  <b>Yapılacaklar listen birini hayatta tutuyor.</b><br>
+  Gerçek görevleri bitirip Lütuf kazan, Kuyu’ya hediyeler bırak ve Hollowmere’de hayatta kalan birinin 30 geceyi atlatmasına yardım et. Kimin yardım ettiğini asla öğrenmeyecek.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="DoDodo demosu: tek satırda görev ekle, başlat, tamamla ve akşam hesabını gör">
+  <img src="assets/demo.gif" width="800" alt="DoDodo demosu: görevleri tek satırda ekle, birini başlat, tamamlandı olarak işaretle ve gecenin nasıl geçtiğini gör">
   <br>
-  <a href="assets/demo.mp4">▶ Tam demoyu izle (MP4, 32 sn)</a>
+  <a href="assets/demo.mp4">▶ Demonun tamamını izle (MP4, 41 sn)</a>
 </p>
 
 ## Neden DoDodo
 
-Gün için üç şey planlıyorsun ve hiçbirini bitiremiyorsun. Çoğu zaman eksik olan odak değil, *şu anda* gerçek hissettiren bir sebeptir. Maaş uzakta; "Bugün bitirirsen 100 TL" ise anında işe yarar.
+Gün için üç iş planlarsın ve hiçbirini bitiremezsin. Çoğu zaman eksik olan odak değil, *hemen şimdi* gerçek hissettiren bir sebeptir. Gelecek ayki son tarih uzakta. Bu gece sana ihtiyacı olan biri ise uzakta değil.
 
-DoDodo her göreve bu anlık ödülü verir. Bitirdiğin her görev, kendine ait küçük bir hayatı olan bir maceracıyı büyütür: yeni yetenekler, tesadüfi karşılaşmalar ve bir ay boyunca açılan bir hikâye. Bir görevi kaçırırsan maceracının kaçırdığı fırsatı görürsün. Kazandığın şeyi asla kaybetmezsin.
+DoDodo’da bitirdiğin her görev, Hollowmere’de hayatta kalmaya çalışan biri için Lütuf olur. Burası sessiz bir kasabadır; hava karardıktan sonra kapıya bir şey gelir. Onun yerine savaşamazsın. İşini yapabilir, Kuyu’dan aşağı ne göndereceğini seçebilir ve sabah onun mektubunu okuyabilirsin.
 
 ## Nasıl çalışır
 
-1. **Görev al**: ne yapacağını yaz ve Enter’a bas. DoDodo özelliği (güç, bilgelik, karizma, zanaat) tahmin eder ve son tarihi mesai bitişine ayarlar.
-2. **Başlat**: görev sürerken DoDodo hangi sitede olduğunu sessizce not eder. Klavyeden uzak görevler (koşu, market alışverişi) takip gerektirmez.
-3. **Tamam**: tek dokunuş. DoDodo yalnızca neredeyse hiç odaklanmadıysan bir soru sorar.
-4. **Eve dönüş**: işten sonra lonca günün hesabını yapar: deneyim, seviye atlamaları, hayat olayları ve kaçırılan fırsatlar.
+1. **Görev al**: ne yapacağını yaz ve Enter’a bas. Günde en fazla üç tane, son tarih mesai bitişi.
+2. **İşini yap**: görev sürerken DoDodo hangi sitede olduğunu sessizce not eder. Klavyeden uzak görevler (koşu, market alışverişi) takip gerektirmez.
+3. **Lütuf kazan**: tek dokunuşla görevi tamamla. Zamanında biten görev 2 Lütuf, geciken 1 Lütuf değerindedir.
+4. **Yardım gönder**: Lütfu muskalar ve yapılar için harca, sonra Lütuf Kuyusu’na bırak. Alacakaranlıkta hayatta kalan onları yukarı çeker, gökyüzüne teşekkür eder ve geceyle yüzleşir.
 
 ## Ekran görüntüleri
 
-| Lonca görev panosu | Akşam hesabı |
+| Bugünün görevleri | Lütuf Kuyusu |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Lonca görev panosu"> | <img src="assets/screenshots/settlement.jpg" alt="Akşam hesabı"> |
+| <img src="assets/screenshots/board.jpg" alt="Bugünün görevleri"> | <img src="assets/screenshots/well.jpg" alt="Lütuf Kuyusu"> |
+| **Gece** | **Sakinlerin Kuralları** |
+| <img src="assets/screenshots/settlement.jpg" alt="Gece"> | <img src="assets/screenshots/codex.jpg" alt="Sakinlerin Kuralları"> |
 | **İlerlemen** | **Araç çubuğu penceresi** |
 | <img src="assets/screenshots/stats.jpg" alt="İlerlemen"> | <img src="assets/screenshots/popup.jpg" alt="Araç çubuğu penceresi"> |
 
 ## Özellikler
 
-- **Tek satırlık görevler**: form yok. Günde en fazla üç görev, böylece plan dürüst kalır.
-- **Onay kutusu değil, gerçek odak**: gelişim, işe gerçekten harcadığın zamandan gelir.
-- **Geri dönmeye değer bir hikâye**: birinci bölüm yaklaşık 30 günde açılır, elle yazılmıştır, yapay zekâ dolgusu yoktur.
-- **Değiştiğinin kanıtı**: yedi günlük odak grafiği, zamanında teslim oranı ve en çok dikkatinin dağıldığı saat.
-- **Adil tasarım**: deneyim satın alınamaz, kestirme yok, seri bozulunca suçlama yok.
+- **İzleyebileceğin bir gece**: her gece kulübede kısa bir animasyonlu sahne olarak oynar; sekiz varlığın her biri içeri girmenin kendi yolunu bulur. Sayılar hep ortadadır: bu gecenin tehdidi, savunman ve bu savunmanın nereden geldiği.
+- **Bir tanrının seçimleri**: yukarıdan, hayatta kalanın göremediği alametleri görür; 19 muska ve 10 yapı arasından seçim yaparsın. Doğru gecede doğru hediye onu hayatta tutar.
+- **Yalan söyleyen kurallar**: zamanında teslim edilen görevler kasabanın kurallarını geri getirir. Bazı satırlar sahtedir ve yanlış olana güvenmenin bir bedeli vardır.
+- **Her sabah bir mektup**: hayatta kalan, ona kim yardım ediyorsa ona yazar. Bunun sen olduğunu asla öğrenmez.
+- **Gerçek odak, sadece tik değil**: yedi günlük odak grafiği, zamanında tamamlama oranın ve en çok dikkatinin dağıldığı saat.
+- **Adil tasarım**: Lütuf satın alınamaz, kestirme yok, seri bozulunca suçlama yok. Hayatta kalmanın tek yolu işi yapmak.
 
 ## Önce gizlilik
 
 - Her şey tarayıcının yerel veritabanında kalır. DoDodo asla internete bağlanmaz.
 - Yalnızca etkin sekmenin **alan adı** kaydedilir, o da sadece görev sırasında; tam URL, sayfa başlığı ya da sayfa içeriği asla kaydedilmez.
-- Hesap yok, analiz yok, reklam yok. Ayarlar’dan tek tıkla tüm verilerini dışa aktar ya da sil.
+- Hesap yok, analiz yok, reklam yok. Ayarlar’dan tüm verilerini dışa aktar ya da sil.
 - Politikanın tamamı: [Gizlilik politikası (İngilizce)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Edin
 
 [**DoDodo’yu Chrome’a ekle →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Chrome ve Microsoft Edge’de (sürüm 102 veya üzeri) çalışır.
+Chrome ve Microsoft Edge’de (sürüm 102 veya üzeri) çalışır. Arayüz İngilizcedir.
 
 ## Bu depo hakkında
 

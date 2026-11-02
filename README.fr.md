@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Votre liste de tâches, transformée en guilde d’aventuriers.</b><br>
-  Prenez quelques quêtes le matin, faites le travail, et chaque soir votre aventurier rentre un peu plus fort.
+  <b>Votre liste de tâches garde quelqu’un en vie.</b><br>
+  Terminez de vraies quêtes pour gagner de la Grâce, déposez des offrandes dans le Puits et aidez un survivant à traverser 30 nuits à Hollowmere. Il ne saura jamais qui l’a aidé.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Démo de DoDodo : ajouter une quête en une ligne, la commencer, la terminer et voir le bilan du soir">
+  <img src="assets/demo.gif" width="800" alt="Démo de DoDodo : ajouter des quêtes en une ligne, en lancer une, les marquer comme faites, puis voir comment s’est passée la nuit">
   <br>
-  <a href="assets/demo.mp4">▶ Voir la démo complète (MP4, 32 s)</a>
+  <a href="assets/demo.mp4">▶ Voir la démo complète (MP4, 41 s)</a>
 </p>
 
 ## Pourquoi DoDodo
 
-Vous prévoyez trois choses dans la journée et n’en terminez aucune. Souvent, ce n’est pas la concentration qui manque, mais une raison qui paraît réelle *tout de suite*. Le salaire est loin ; « 50 € si c’est fini aujourd’hui » fonctionne immédiatement.
+Vous prévoyez trois choses pour la journée et n’en terminez aucune. Souvent, ce n’est pas la concentration qui manque, mais une raison qui paraisse réelle *tout de suite*. Une échéance le mois prochain, c’est loin. Quelqu’un qui a besoin de vous cette nuit, non.
 
-DoDodo donne à chaque tâche cette récompense immédiate. Chaque quête terminée fait grandir un aventurier qui mène sa petite vie : nouveaux talents, rencontres fortuites, une histoire qui se déroule sur un mois. Si vous ratez une quête, vous verrez l’occasion manquée par votre aventurier. Ce que vous avez déjà gagné ne se perd jamais.
+Dans DoDodo, chaque quête terminée devient de la Grâce pour un survivant de Hollowmere, une ville tranquille où, la nuit tombée, quelque chose vient frapper à la porte. Vous ne pouvez pas vous battre à sa place. Vous pouvez faire votre travail, choisir ce que vous envoyez au fond du Puits, et lire sa lettre le matin.
 
 ## Comment ça marche
 
-1. **Prenez une quête** : écrivez ce que vous allez faire et appuyez sur Entrée. DoDodo devine l’attribut (force, sagesse, charisme, artisanat) et fixe l’échéance à la fin de votre journée de travail.
-2. **Commencez** : pendant la quête, DoDodo note discrètement le site sur lequel vous êtes. Les quêtes loin du clavier (un footing, les courses) n’ont pas besoin de suivi.
-3. **Terminé** : un seul clic. DoDodo ne pose une question que si vous avez à peine été concentré.
-4. **Retour à la guilde** : après le travail, la guilde fait le bilan de la journée : expérience, niveaux, événements de vie et occasions manquées.
+1. **Prenez une quête** : écrivez ce que vous allez faire et appuyez sur Entrée. Trois par jour au maximum, à rendre avant la fin de votre journée de travail.
+2. **Faites le travail** : pendant une quête, DoDodo note discrètement le site sur lequel vous êtes. Les quêtes loin du clavier (un footing, les courses) ne demandent aucun suivi.
+3. **Gagnez de la Grâce** : un geste suffit pour terminer une quête. À l’heure, elle rapporte 2 de Grâce ; en retard, 1.
+4. **Envoyez de l’aide** : dépensez votre Grâce en talismans et en constructions, puis laissez-les tomber dans le Puits de la Grâce. Au crépuscule, le survivant les remonte, remercie le ciel et affronte la nuit.
 
 ## Captures d’écran
 
-| Tableau de la guilde | Bilan du soir |
+| Les quêtes du jour | Le Puits de la Grâce |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Tableau de la guilde"> | <img src="assets/screenshots/settlement.jpg" alt="Bilan du soir"> |
+| <img src="assets/screenshots/board.jpg" alt="Les quêtes du jour"> | <img src="assets/screenshots/well.jpg" alt="Le Puits de la Grâce"> |
+| **La nuit** | **Le Code des résidents** |
+| <img src="assets/screenshots/settlement.jpg" alt="La nuit"> | <img src="assets/screenshots/codex.jpg" alt="Le Code des résidents"> |
 | **Vos progrès** | **Fenêtre de la barre d’outils** |
 | <img src="assets/screenshots/stats.jpg" alt="Vos progrès"> | <img src="assets/screenshots/popup.jpg" alt="Fenêtre de la barre d’outils"> |
 
 ## Fonctionnalités
 
-- **Des quêtes en une ligne** : aucun formulaire. Trois par jour au maximum, pour un plan honnête.
-- **Une vraie concentration, pas des cases à cocher** : la progression vient du temps réellement passé sur le travail.
-- **Une histoire qui donne envie de revenir** : le premier chapitre se déroule sur environ 30 jours, entièrement écrit à la main, sans remplissage par IA.
-- **La preuve que vous changez** : graphique de concentration sur sept jours, taux de quêtes rendues à temps et l’heure où vous êtes le plus distrait.
-- **Équitable par conception** : pas d’expérience à acheter, pas de raccourcis, pas de culpabilisation quand une série s’arrête.
+- **Une nuit qui se regarde** : chaque nuit se joue en une courte scène animée dans la maisonnette, avec huit présences qui ont chacune leur façon d’entrer. Les chiffres restent toujours visibles : la menace de la nuit, votre défense et d’où elle vient.
+- **Les choix d’un dieu** : d’en haut, vous voyez les présages que le survivant ne voit pas, et vous choisissez parmi 19 talismans et 10 constructions. Le bon cadeau, la bonne nuit : c’est ce qui le garde en vie.
+- **Un Code qui ment** : les quêtes rendues à l’heure font revenir les règles de la ville. Certaines lignes sont fausses, et se fier à la mauvaise se paie.
+- **Une lettre chaque matin** : le survivant écrit à la personne qui l’aide, quelle qu’elle soit. Il ne saura jamais que c’est vous.
+- **Une vraie concentration, pas des cases à cocher** : un graphique de concentration sur sept jours, votre taux de ponctualité et l’heure où vous vous dispersez le plus.
+- **Équitable par conception** : pas de Grâce à acheter, pas de raccourcis, pas de culpabilisation quand une série s’arrête. On ne survit qu’en faisant le travail.
 
 ## Confidentiel par conception
 
 - Tout reste dans la base de données locale de votre navigateur. DoDodo ne se connecte jamais à Internet.
 - Seul le **domaine** de l’onglet actif est enregistré, et uniquement pendant une quête : jamais d’URL complètes, de titres ni de contenu de page.
-- Pas de compte, pas de statistiques, pas de publicité. Exportez ou supprimez toutes vos données en un clic depuis les Réglages.
+- Pas de compte, pas de statistiques, pas de publicité. Exportez ou supprimez toutes vos données depuis les Réglages.
 - Politique complète: [Politique de confidentialité (en anglais)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## L’installer
 
 [**Ajouter DoDodo à Chrome →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Fonctionne dans Chrome et Microsoft Edge (version 102 ou ultérieure).
+Fonctionne dans Chrome et Microsoft Edge (version 102 ou ultérieure). L’interface est en anglais.
 
 ## À propos de ce dépôt
 

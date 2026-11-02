@@ -9,8 +9,8 @@
 <h1 align="center">DoDodo</h1>
 
 <p align="center">
-  <b>Danh sách việc cần làm của bạn, biến thành một hội mạo hiểm giả.</b><br>
-  Nhận vài nhiệm vụ vào buổi sáng, làm xong việc, và mỗi tối nhà mạo hiểm của bạn trở về mạnh hơn một chút.
+  <b>Danh sách việc cần làm của bạn giữ cho một người còn sống.</b><br>
+  Hoàn thành nhiệm vụ thật để nhận Ân điển, thả quà xuống Giếng, và giúp một người sống sót vượt qua 30 đêm ở Hollowmere. Người đó sẽ không bao giờ biết ai đã giúp mình.
 </p>
 
 <p align="center">
@@ -21,51 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: thêm nhiệm vụ trong một dòng, bắt đầu, hoàn thành và xem tổng kết buổi tối">
+  <img src="assets/demo.gif" width="800" alt="Demo DoDodo: thêm nhiệm vụ chỉ bằng một dòng, bắt đầu một nhiệm vụ, đánh dấu hoàn thành và xem đêm hôm đó trôi qua thế nào">
   <br>
-  <a href="assets/demo.mp4">▶ Xem bản demo đầy đủ (MP4, 32 giây)</a>
+  <a href="assets/demo.mp4">▶ Xem toàn bộ demo (MP4, 41 giây)</a>
 </p>
 
 ## Vì sao có DoDodo
 
-Bạn lên kế hoạch ba việc trong ngày và không xong việc nào. Thường thứ còn thiếu không phải là sự tập trung, mà là một lý do có cảm giác thật *ngay lúc này*. Lương thì còn xa; "50 nghìn nếu xong trong hôm nay" thì hiệu quả ngay lập tức.
+Bạn lên kế hoạch ba việc cho cả ngày và không xong việc nào. Thường thứ còn thiếu không phải sự tập trung, mà là một lý do có cảm giác thật *ngay lúc này*. Hạn chót tháng sau thì còn xa. Còn một người cần bạn đêm nay thì không.
 
-DoDodo trao cho mỗi việc phần thưởng tức thì đó. Mỗi nhiệm vụ bạn hoàn thành giúp một nhà mạo hiểm lớn lên với cuộc đời nhỏ của riêng họ: tài năng mới, những cuộc gặp tình cờ, một câu chuyện kéo dài suốt một tháng. Bỏ lỡ một nhiệm vụ, bạn sẽ thấy cơ hội mà nhà mạo hiểm đã để lỡ. Những gì bạn đã đạt được sẽ không bao giờ mất.
+Trong DoDodo, mỗi nhiệm vụ bạn hoàn thành trở thành Ân điển cho một người sống sót ở Hollowmere, một thị trấn yên tĩnh nơi có thứ gì đó tìm đến cửa sau khi trời tối. Bạn không thể chiến đấu thay người đó. Bạn có thể làm xong việc của mình, chọn thứ để gửi xuống Giếng, và đọc lá thư của người đó vào buổi sáng.
 
 ## Cách hoạt động
 
-1. **Nhận nhiệm vụ**: gõ việc bạn sẽ làm và nhấn Enter. DoDodo tự đoán thuộc tính (sức mạnh, trí tuệ, sức hút, tay nghề) và đặt hạn chót vào cuối ngày làm việc.
-2. **Bắt đầu**: trong khi làm nhiệm vụ, DoDodo lặng lẽ ghi lại bạn đang ở trang web nào. Nhiệm vụ rời bàn phím (chạy bộ, đi chợ) không cần theo dõi.
-3. **Xong**: chỉ một chạm. DoDodo chỉ hỏi thêm khi bạn gần như không tập trung.
-4. **Về nhà**: sau giờ làm, hội tổng kết ngày của bạn: kinh nghiệm, lên cấp, sự kiện cuộc đời và những cơ hội đã lỡ.
+1. **Nhận nhiệm vụ**: gõ việc bạn sẽ làm và nhấn Enter. Tối đa ba việc mỗi ngày, hạn chót là cuối ngày làm việc.
+2. **Làm việc**: trong lúc làm nhiệm vụ, DoDodo lặng lẽ ghi lại bạn đang ở trang web nào. Nhiệm vụ không cần bàn phím (chạy bộ, đi chợ) thì không cần theo dõi.
+3. **Nhận Ân điển**: chạm một lần là xong nhiệm vụ. Đúng hạn được 2 Ân điển, trễ hạn được 1.
+4. **Gửi trợ giúp**: dùng Ân điển đổi bùa hộ mệnh và công trình, rồi thả xuống Giếng Ân Điển. Lúc chạng vạng, người sống sót kéo chúng lên, cảm ơn bầu trời, rồi đối mặt với đêm tối.
 
 ## Ảnh chụp màn hình
 
-| Bảng nhiệm vụ của hội | Tổng kết buổi tối |
+| Nhiệm vụ hôm nay | Giếng Ân Điển |
 | --- | --- |
-| <img src="assets/screenshots/board.jpg" alt="Bảng nhiệm vụ của hội"> | <img src="assets/screenshots/settlement.jpg" alt="Tổng kết buổi tối"> |
+| <img src="assets/screenshots/board.jpg" alt="Nhiệm vụ hôm nay"> | <img src="assets/screenshots/well.jpg" alt="Giếng Ân Điển"> |
+| **Màn đêm** | **Quy tắc Cư dân** |
+| <img src="assets/screenshots/settlement.jpg" alt="Màn đêm"> | <img src="assets/screenshots/codex.jpg" alt="Quy tắc Cư dân"> |
 | **Tiến bộ của bạn** | **Cửa sổ trên thanh công cụ** |
 | <img src="assets/screenshots/stats.jpg" alt="Tiến bộ của bạn"> | <img src="assets/screenshots/popup.jpg" alt="Cửa sổ trên thanh công cụ"> |
 
 ## Tính năng
 
-- **Nhiệm vụ một dòng**: không có biểu mẫu. Tối đa ba việc mỗi ngày để kế hoạch luôn thật lòng.
-- **Tập trung thật, không phải chỉ đánh dấu**: sự phát triển đến từ thời gian bạn thực sự dành cho công việc.
-- **Một câu chuyện đáng để quay lại**: chương một kéo dài khoảng 30 ngày, viết tay hoàn toàn, không có nội dung độn bằng AI.
-- **Bằng chứng bạn đang thay đổi**: biểu đồ tập trung bảy ngày, tỉ lệ hoàn thành đúng hạn và khung giờ bạn dễ xao nhãng nhất.
-- **Công bằng từ thiết kế**: không mua được kinh nghiệm, không có lối tắt, không trách móc khi chuỗi ngày bị đứt.
+- **Một đêm bạn có thể xem**: mỗi đêm là một cảnh hoạt hình ngắn trong căn nhà gỗ, với tám thực thể, mỗi thực thể có cách riêng để lọt vào. Các con số luôn hiện rõ: mối đe dọa đêm nay, sức phòng thủ của bạn và nó đến từ đâu.
+- **Lựa chọn của một vị thần**: từ trên cao, bạn thấy những điềm báo mà người sống sót không thấy, và chọn trong 19 bùa hộ mệnh cùng 10 công trình. Món quà đúng vào đúng đêm là thứ giữ người đó sống sót.
+- **Bộ quy tắc biết nói dối**: nhiệm vụ hoàn thành đúng hạn giúp tìm lại các quy tắc của thị trấn. Có những dòng là giả, và tin nhầm dòng sẽ phải trả giá.
+- **Mỗi sáng một lá thư**: người sống sót viết cho bất kỳ ai đang giúp mình. Người đó sẽ không bao giờ biết đó là bạn.
+- **Tập trung thật, không chỉ là đánh dấu**: biểu đồ tập trung bảy ngày, tỷ lệ đúng hạn và khung giờ bạn hay bị xao nhãng nhất.
+- **Công bằng từ thiết kế**: không mua được Ân điển, không có lối tắt, không trách móc khi chuỗi ngày bị đứt. Chỉ có làm việc mới giúp sống sót.
 
 ## Quyền riêng tư là trên hết
 
 - Mọi dữ liệu nằm trong cơ sở dữ liệu cục bộ của trình duyệt. DoDodo không bao giờ kết nối internet.
 - Chỉ ghi lại **tên miền** của tab đang mở, và chỉ trong lúc làm nhiệm vụ — không bao giờ ghi URL đầy đủ, tiêu đề hay nội dung trang.
-- Không cần tài khoản, không phân tích, không quảng cáo. Xuất hoặc xóa toàn bộ dữ liệu chỉ với một cú nhấp trong Cài đặt.
+- Không cần tài khoản, không phân tích, không quảng cáo. Xuất hoặc xóa toàn bộ dữ liệu trong Cài đặt.
 - Chính sách đầy đủ: [Chính sách quyền riêng tư (tiếng Anh)](https://github.com/hannnnnnnny/dodo-privacy/blob/main/PRIVACY.md)
 
 ## Tải về
 
 [**Thêm DoDodo vào Chrome →**](https://chromewebstore.google.com/detail/iolnnoehfplknoagflegplkapoemiecc)  
-Hoạt động trên Chrome và Microsoft Edge (phiên bản 102 trở lên).
+Hoạt động trên Chrome và Microsoft Edge (phiên bản 102 trở lên). Giao diện bằng tiếng Anh.
 
 ## Về kho lưu trữ này
 
